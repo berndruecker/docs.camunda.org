@@ -31,7 +31,7 @@ scripts.
   </tr>
   <tr>
     <td>
-      <a href="#process-engine-scripting-use-scripts-as-execution-listener">
+      <a href="#process-engine-scripting-use-scripts-as-execution-listeners">
         Process, Activities, Sequence Flows, Gateways and Events
       </a>
     </td>
@@ -39,7 +39,7 @@ scripts.
   </tr>
   <tr>
     <td>
-      <a href="#process-engine-scripting-use-scripts-as-task-listener">
+      <a href="#process-engine-scripting-use-scripts-as-task-listeners">
         User Tasks
       </a>
     </td>
@@ -47,7 +47,7 @@ scripts.
   </tr>
   <tr>
     <td>
-      <a href="#process-engine-scripting-use-scripts-as-condition">
+      <a href="#process-engine-scripting-use-scripts-as-conditions">
         Sequence Flows
       </a>
     </td>
